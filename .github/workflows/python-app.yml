@@ -16,3 +16,6 @@ jobs:
         python-version: '3.x'
     - name: Run Hello World
       run: python hello.py
+    - name: Run Calculator Script
+      run: python calculator.py
+
